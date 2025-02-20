@@ -2,7 +2,7 @@
 Gerenciador de contas criado em python, SQL, gráficos com matplotlib.
 ### Como utilizar?
 Basta instalar as dependencias usando `pip install -r requirements.txt`  
-Inicializar o banco usando `pythonn models.py`
+Inicializar o banco usando `pythonn models.py`  
 E, então, inciar o projeto utilizando no terminal `python template.py`  
 Desta forma começará a rodar o projeto.
 ### Funcionalidades:
