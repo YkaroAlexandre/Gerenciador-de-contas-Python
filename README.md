@@ -1,7 +1,8 @@
 # Gerenciador-de-contas
 Gerenciador de contas criado em python, SQL, gráficos com matplotlib.
 ### Como utilizar?
-Basta inciar o projeto utilizando no terminal `python template.py`  
+Basta instalar as dependencias usando `pip install -r requirements.txt`  
+E, então, inciar o projeto utilizando no terminal `python template.py`  
 Desta forma começará a rodar o projeto.
 ### Funcionalidades:
 <ul>
